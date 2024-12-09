@@ -1,13 +1,3 @@
-title: My Awesome Jekyll Site
-description: A demo site using Jekyll and GitHub Pages
-theme: minima
-baseurl: "" # Leave empty for personal site; set to "/repository-name" for project site
-url: "https://username.github.io" # Replace username with your GitHub username
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-# emiliocastorena.github.io
-# Project title
-## Adv GIS
+title: My Awesome Site
+description: A simple demo using Jekyll
+theme: architect
