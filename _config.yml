@@ -1,17 +1,13 @@
-title: My Jekyll Site
-description: A blog hosted on GitHub Pages
-baseurl: "/my-jekyll-site" # Leave empty if deploying to username.github.io
-url: "https://username.github.io" # Base URL of your site
+title: My Awesome Jekyll Site
+description: A demo site using Jekyll and GitHub Pages
 theme: minima
-markdown: kramdown
+baseurl: "" # Leave empty for personal site; set to "/repository-name" for project site
+url: "https://username.github.io" # Replace username with your GitHub username
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Pagination settings
-paginate: 5
-paginate_path: "/page:num/"
-
 # emiliocastorena.github.io
 # Project title
 ## Adv GIS
