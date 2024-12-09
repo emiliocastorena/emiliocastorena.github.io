@@ -32,3 +32,15 @@ You can reach me at:
 I'm learning how to use Markdown to create webpages!
 
 ---
+
+# 🌟 Welcome to My Page 🌟
+
+<div style="background-color: #ffcccb; padding: 20px; text-align: center; border-radius: 10px;">
+  <h1>About Me</h1>
+  <p>Hello! I'm learning how to style Markdown files using HTML.</p>
+</div>
+
+## 🚀 Features
+- Clean and minimal
+- Easy to host
+- Fully customizable
