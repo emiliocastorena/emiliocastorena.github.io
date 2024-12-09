@@ -44,3 +44,19 @@ I'm learning how to use Markdown to create webpages!
 - Clean and minimal
 - Easy to host
 - Fully customizable
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+<div style="background-color: #4CAF50; color: white; padding: 20px; text-align: center; width: 100vw; box-sizing: border-box;">
+  <h1>Welcome to My Styled Page</h1>
+  <p>Making full-width headers is easy!</p>
+</div>
+
+# 🚀 Features
+- Fully customizable
+- Supports Markdown and HTML
