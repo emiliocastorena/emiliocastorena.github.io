@@ -15,3 +15,20 @@ You can reach me at:
 - GitHub: [My Profile](https://github.com/yourusername)
 
 ![Example Image](https://via.placeholder.com/400) <!-- Replace with your image -->
+
+# **Welcome to My Page**
+> A short description of your site
+
+---
+
+## 🚀 Features
+- Easy to use
+- Clean layout
+- Hosted on GitHub Pages
+
+---
+
+### About Me
+I'm learning how to use Markdown to create webpages!
+
+---
