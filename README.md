@@ -11,9 +11,12 @@ The data was collected with an airborne LiDAR sensor and was used to propose a p
 ## Flowchart
 
 ![Alt Text](/flowchart.png)
+
+## Original dataset
 <iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/y5rab"></iframe>
 # Classifying the ground
 
+## Main focus of the script - Classifying the ground
 ```python
 #classify Ground
 arcpy.ddd.ClassifyLasGround(
@@ -36,47 +39,9 @@ arcpy.ddd.ClassifyLasGround(
     preserve_high_noise="RECLASSIFY_HIGH_NOISE"
 )
 ```
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1jWeyD0"></iframe>
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://www.arcgis.com/home/webscene/viewer.html?webscene=487e71a201424d45b1188eceeee1a30b&viewpoint=cam:-88.96883596,35.15506215,1007.419;170.347,58.368&ui=min"></iframe>
+
 
 ---
 
-## 🚀 Features
-- Easy to use
-- Clean layout
-- Hosted on GitHub Pages
 
----
 
-### About Me
-I'm learning how to use Markdown to create webpages!
-
----
-
-# 🌟 Welcome to My Page 🌟
-
-<div style="background-color: #ffcccb; padding: 20px; text-align: center; border-radius: 10px;">
-  <h1>About Me</h1>
-  <p>Hello! I'm learning how to style Markdown files using HTML.</p>
-</div>
-
-## 🚀 Features
-- Clean and minimal
-- Easy to host
-- Fully customizable
-
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-  }
-</style>
-
-<div style="background-color: #4CAF50; color: white; padding: 20px; text-align: center; width: 100vw; box-sizing: border-box;">
-  <h1>Welcome to My Styled Page</h1>
-  <p>Making full-width headers is easy!</p>
-</div>
-
-# 🚀 Features
-- Fully customizable
-- Supports Markdown and HTML
