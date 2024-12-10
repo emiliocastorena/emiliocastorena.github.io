@@ -12,8 +12,8 @@ The data was collected with an airborne LiDAR sensor and was used to propose a p
 
 ![Alt Text](/flowchart.png)
 
-# **Welcome to My Page**
-> A short description of your site
+# Classifying the ground
+
 
 ---
 
