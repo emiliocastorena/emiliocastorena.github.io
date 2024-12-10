@@ -11,7 +11,7 @@ The data was collected with an airborne LiDAR sensor and was used to propose a p
 ## Flowchart
 
 ![Alt Text](/flowchart.png)
-
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/y5rab"></iframe>
 # Classifying the ground
 
 ```python
