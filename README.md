@@ -1,17 +1,14 @@
 # Objective
-To facilitate LiDAR .laz formatted data by running an arcpy script and creating a high resolution 0.5 Digital Eleveation Model (DEM).
+To facilitate LiDAR .laz formatted data by running an arcpy script to create a high resolution 0.5 Digital Eleveation Model (DEM).
 
 ## About the data presented
-Data presented in this project was collected in Lone Oaks Farm. Lone Oaks Farm is owned by the University of Tennessee Institute of Agriculture and administered by UT Extension.  It is a world-class venue for education, business retreats, special events, and family travel. One stream ran straight through the farm until West Tennessee River Basin Authority funded by Ford restored the stream to enhance its ecological services.
+Data presented in this project was collected in Lone Oaks Farm. Lone Oaks Farm is owned by the University of Tennessee Institute of Agriculture and administered by UT Extension.  It is a world-class venue for education, business retreats, special events, and family travel. One stream ran straight through the farm until West Tennessee River Basin Authority (WTRBA) funded by Ford restored the stream to enhance its ecological services.
 
 ![Alt Text](/lone1.png)
 
-### My Favorite Things
-1. GitHub Pages
-2. Learning Markdown
-3. Exploring Themes
+The data was collected with an airborne LiDAR sensor and was used to propose a project to the WTRBA. The data will be used to assess the effectiveness of restoration measures taken at Lone Oaks.
 
-## Contact
+## Flowchart
 You can reach me at:
 - Email: example@example.com
 - GitHub: [My Profile](https://github.com/yourusername)
