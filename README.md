@@ -36,7 +36,7 @@ arcpy.ddd.ClassifyLasGround(
     preserve_high_noise="RECLASSIFY_HIGH_NOISE"
 )
 ```
-<iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/191myb2"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1jWeyD0"></iframe>
 ---
 
 ## 🚀 Features
