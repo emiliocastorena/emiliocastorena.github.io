@@ -1,8 +1,10 @@
-# Welcome to My Website
-This is a demo site created with GitHub Pages.
+# Objective
+To facilitate LiDAR .laz formatted data by running an arcpy script and creating a high resolution 0.5 Digital Eleveation Model (DEM).
 
-## About Me
-I’m learning how to use Markdown and Jekyll to create websites.
+## About the data presented
+Data presented in this project was collected in Lone Oaks Farm. Lone Oaks Farm is owned by the University of Tennessee Institute of Agriculture and administered by UT Extension.  It is a world-class venue for education, business retreats, special events, and family travel. One stream ran straight through the farm until West Tennessee River Basin Authority funded by Ford restored the stream to enhance its ecological services.
+
+![Alt Text](/lone1.png)
 
 ### My Favorite Things
 1. GitHub Pages
