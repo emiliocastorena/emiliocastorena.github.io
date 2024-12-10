@@ -45,7 +45,8 @@ arcpy.ddd.ClassifyLasGround(
 
 ## High resolution 0.5 m LiDAR derived DEM
 <iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/jzvTS"></iframe>
----
 
+## Use example
+![Alt Text](/Bank_slope.jpg)
 
 
