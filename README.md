@@ -14,9 +14,10 @@ The data was collected with an airborne LiDAR sensor and was used to propose a p
 
 ## Original dataset
 <iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/y5rab"></iframe>
+
 # Classifying the ground
 
-## Main focus of the script - Classifying the ground
+## Main focus of the script
 ```python
 #classify Ground
 arcpy.ddd.ClassifyLasGround(
@@ -39,7 +40,8 @@ arcpy.ddd.ClassifyLasGround(
     preserve_high_noise="RECLASSIFY_HIGH_NOISE"
 )
 ```
-
+## Ground classified
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/9SaSK"></iframe>
 
 ---
 
