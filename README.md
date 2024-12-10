@@ -37,13 +37,7 @@ arcpy.ddd.ClassifyLasGround(
 )
 ```
 <iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1jWeyD0"></iframe>
-<iframe
-  src="[https://www.arcgis.com/apps/sceneviewer/index.html?webscene=<webscene_id>](https://www.arcgis.com/home/webscene/viewer.html?webscene=487e71a201424d45b1188eceeee1a30b&viewpoint=cam:-88.96883596,35.15506215,1007.419;170.347,58.368)"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://www.arcgis.com/home/webscene/viewer.html?webscene=487e71a201424d45b1188eceeee1a30b&viewpoint=cam:-88.96883596,35.15506215,1007.419;170.347,58.368&ui=min"></iframe>
 
 ---
 
