@@ -14,6 +14,27 @@ The data was collected with an airborne LiDAR sensor and was used to propose a p
 
 # Classifying the ground
 
+```python
+#classify Ground
+arcpy.ddd.ClassifyLasGround(
+    in_las_dataset = las_dataset,
+    method = "CONSERVATIVE", #method to classify ground to non-ground points
+    dem_resolution = 5, #resolution for sampling
+    reuse_ground="RECLASSIFY_GROUND",
+    dem_resolution="0.5 Meters",
+    compute_stats="COMPUTE_STATS",
+    extent="DEFAULT",
+    boundary=None,
+    process_entire_files="PROCESS_EXTENT",
+    update_pyramid="UPDATE_PYRAMID",
+    algorithm="LATEST",
+    classify_low_noise="NO_CLASSIFY_LOW_NOISE",
+    minimum_depth_below_ground="0.25 Meters",
+    preserve_low_noise="RECLASSIFY_LOW_NOISE",
+    classify_high_noise="NO_CLASSIFY_HIGH_NOISE",
+    minimum_height_above_ground="100 Meters",
+    preserve_high_noise="RECLASSIFY_HIGH_NOISE"
+)
 
 ---
 
