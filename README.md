@@ -9,11 +9,8 @@ Data presented in this project was collected in Lone Oaks Farm. Lone Oaks Farm i
 The data was collected with an airborne LiDAR sensor and was used to propose a project to the WTRBA. The data will be used to assess the effectiveness of restoration measures taken at Lone Oaks.
 
 ## Flowchart
-You can reach me at:
-- Email: example@example.com
-- GitHub: [My Profile](https://github.com/yourusername)
 
-![Example Image](https://via.placeholder.com/400) <!-- Replace with your image -->
+![Alt Text](/flowchart.png)
 
 # **Welcome to My Page**
 > A short description of your site
